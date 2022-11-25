@@ -76,7 +76,7 @@ const Boutons = () => {
                     <div style={{marginTop : '20px', height : '250px', marginLeft: '12px', marginRight: '10px'}} className=" col-sm-5 border border-info ">
                     <h2>{event[0]} </h2>
                     <div>{event[1]}</div> 
-                    <div>Le {jour}/{mois}/{annee}</div>
+                    <div>Le {jour}/{mois+1}/{annee}</div>
                     </div>
                 )
             })

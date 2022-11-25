@@ -82,9 +82,7 @@ const Calendrier = (props) => {
         }
     return(
         
-        <div className="bg-dark container col-sm-12" style={{marginBottom : '20px'}}>
-            {mois}/
-            {nbjours}
+        <div className="bg-dark container col-sm-12" style={{marginBottom : '20px', marginTop : '20px'}}>
             <div className="row"> 
                 <div className="col-sm border border-info">Lundi</div>
                 <div className="col-sm border border-info">Mardi</div>

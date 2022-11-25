@@ -1,0 +1,17 @@
+Bonjour,
+
+VOici un petit guide pour le calendrier et son fonctionnement.
+
+un "npm install" permet d'installer les librairies utilisé (fontawesome pour les icons, sweetalert2 pour les swall)  
+
+Les bouttons marchent comme un calendrier normal.
+Le calendrier est en thème sombre
+
+Pour prendre un rendez-vous il faut cliquer sur la date voulu dans le calendrier.
+Un formulaire apparait alors il faut au moins mettre un titre et cliquer sur ajouter un rdv 
+(si on ne met pas de titre une swall erreur apparait pour informer l'utilisateur)
+si on ajoute un rdv une swall de confirmation apprait 
+les jours avec un ou plusieurs rdv sont en bleu
+Pour voir les rdv il faut cliquer sur le jour et les rdv appraitront en bas de la swall.
+
+Merci et bonne découverte :)
